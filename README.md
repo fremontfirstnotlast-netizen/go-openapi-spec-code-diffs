@@ -86,4 +86,4 @@ func validateOpenAPISpecs(t *testing.T) {
 * Use the standard go command to run tests as follows, which are divided as positive and negative tests:
 ```shell
  go test -v ./tests/positive ./tests/negative
-```
+````
